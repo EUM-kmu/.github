@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🔗 웹사이트
+https://k-eum2023.web.app/
+
+## 🔖 포스터
+![알파 포스터](https://github.com/EUM-kmu/.github/assets/102743371/7d909412-70bc-4170-9ede-badd73f0f0dd)
+
+
 <!--
 
 **Here are some ideas to get you started:**
