@@ -1,6 +1,6 @@
 # 타임페이; 시간으로 도움을 주고 받다
->  **Latest Release**: 1.2.1  
-> Released: 2024.08.16
+>  **Latest Release**: 1.2.0  
+> Released: 2024.08.23
 
 📲 구글 플레이스토어  ➡️  [타임페이 for Android](https://play.google.com/store/apps/details?id=app.web.timepay2024_1.twa&hl=ko)  
 
@@ -153,3 +153,10 @@
 </table> 
 
 <!-- -->
+
+## 🔍 더 알아보기
+- 📰 **관련 기사**  [국민대, 정릉3동 지역자원조사와 마을시간은행 고도화 성과공유회](https://news.nate.com/view/20240614n20052)  
+  - (참여자: 남주희, 윤서영, 이채민, 홍현지, 황솔희)
+  
+- 📸 **사용자와의 만남** [주민센터 어플 시연 및 성과공유회 사진](https://drive.google.com/drive/folders/1j74qmTJ85o_ULWlKp8PNlQPBvkOZjcWw?usp=sharing)
+  - (참여자: 남주희, 윤서영, 이채민, 홍현지, 황솔희)
